@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=sergiaoprogramador&label=PROFILE+VIEWS"/>
   </div>
 </div>
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1> Hi there </h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - 🔭 I’m currently working as a Backend Engineer on ACE Cortex
 - 🌱 I’m currently learning Python, Django, Flask, NoSql, Google Cloud Infrastructure, Microservices, Vue.js, Nuxt.js, Clean Code
