@@ -30,7 +30,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  ##### backend:
+  <h5> Backend </h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50"/> 
@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50"/>
 <div/>
 <div>
-  ##### infrastructure:
+  <h5> Infrastructure </h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
@@ -58,7 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50"/> 
 <div/>
 <div>
-  ##### frontend:
+  <h5> Frontend <h5/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/> 
@@ -68,7 +68,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"/>
 <div/>
 <div>
-  ##### others:
+  <h5> Others <h5/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50"/>
