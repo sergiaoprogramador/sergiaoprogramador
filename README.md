@@ -24,3 +24,5 @@
 - 🤔 I’m looking for help with Data Science, IOT, Blockchain, Virtual Reality, Machine Learning
 - 💬 Ask me about PHP, Laravel, Python, Django, Vue.js, Default Web Stacks (HTML, CSS, JS), SQL databases
 - 📫 How to reach me: ...
+
+### :hammer_and_wrench: Languages and Tools :
