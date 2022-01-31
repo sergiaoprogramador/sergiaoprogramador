@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/PDF-red?style=for-the-badge&logo=PDF&logoColor=white" alt="PDF Badge"/>
+    <img src="https://img.shields.io/badge/Download%20My%20R%C3%A9sum%C3%A9-informational?style=for-the-badge&logo=DocuSign&logoColor=white" alt="Résumé PDF Badge"/>
   </a>
 </div>
 </div>
