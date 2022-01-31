@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50"/> 
 </div>
 
 ---
