@@ -13,7 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=sergiaoprogramador&label=PROFILE+VIEWS"/>
   </div>
 </div>
-![](https://komarev.com/ghpvc/?username=sergiaoprogramador&label=PROFILE+VIEWS)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - 🔭 I’m currently working as a Backend Engineer on ACE Cortex
