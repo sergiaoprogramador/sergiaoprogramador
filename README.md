@@ -29,6 +29,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<img src="https://github.com/sergiaoprogramador/sergiaoprogramador/blob/main/python.svg"/> 
+<img src="https://github.com/sergiaoprogramador/sergiaoprogramador/blob/main/python.svg" width="50"/> 
 
 ---
