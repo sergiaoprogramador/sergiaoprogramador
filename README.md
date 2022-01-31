@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://sergiaoprogramador.github.io/assets/img/Sergio%20Ramos.png" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/sergiobarbosaramos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCEFpkUnGBpMKMKJGv2UOOow">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/PDF-red?style=for-the-badge&logo=PDF&logoColor=white" alt="PDF Badge"/>
   </a>
 </div>
 </div>
