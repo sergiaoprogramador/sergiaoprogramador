@@ -18,12 +18,12 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working as a Backend Engineer on ACE Cortex
-- 🌱 I’m currently learning Python, Django, Flask, NoSql, Google Cloud Infrastructure, Microservices, Vue.js, Nuxt.js, Clean Code
-- 👯 I’m looking to collaborate on Big Data Projects, Predictive Algorithm, Building Large Software Architectures
+- 🔭 I’m currently working as a Backend Engineer on DevForBusiness
+- 🌱 I’m currently learning Python, Fastapi, Django, Flask, NoSql, Google Cloud Infrastructure, Microservices, React.js, React Native, Vue.js, Clean Code
+- 👯 I’m looking to collaborate on Big Data Projects, Building Large Software Architectures
 - 🤔 I’m looking for help with Data Science, IOT, Blockchain, Virtual Reality, Machine Learning
-- 💬 Ask me about Python, Django, PHP, Laravel, Vue.js, Vuex, CI/CD, Default Web Stacks (HTML, CSS, JS), SQL databases
-- 📫 How to reach me: sergio@devforbusiness.com
+- 💬 Ask me about Python, Fastapi, Django, React, Google Cloud, Docker, PHP, Laravel, Vue.js, Vuex, CI/CD, Default Web Stacks (HTML, CSS, JS), SQL databases
+- 📫 How to reach me: sergio.b.snp@gmail.com
 
 ---
 
